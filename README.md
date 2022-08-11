@@ -32,9 +32,9 @@ Here are the technologies used in this project.
 
 ![Homepage image](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/main.png)
 
-### 2 - Cart 
+### 2 - Products 
 
-* This cart component has the intention of storing the selected items and their quantity, all this integration is done with a communication from the client with the server where the search for the selected items and their stock is done, having several rules to be applied,  as the quantity not being greater than the stock, if the item really exists, among others.
+* In this part of the site, we see the coffees offered, with their name main, ingredients and values, buttons to increment and decrement, and one to add to the cart
 
 ![Cart](https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras/blob/master/src/readme/cart2.png)
 
