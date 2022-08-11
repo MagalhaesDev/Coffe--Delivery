@@ -44,16 +44,32 @@ Here are the technologies used in this project.
 
 ![Product-Limit](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/products-stock.png)
 
-### 4 - API
+### 4 - Cart
 
-* In the following images, we can see the API used to query the data, with which we can query both the product details and its quantity in stock.
+* In the cart component, you will have a form to fill out to make the delivery, with some validations, the payment method, and the products added to the cart, being possible to delete, increment and decrement from the cart.
 
-![API](https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras/blob/master/src/readme/products.png)
+![Cart](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/cart.png)
 
-![API](https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras/blob/master/src/readme/stock.png)
+### 5 - Form Validation 
+
+* If the user does not fill in the form field in which it is required, an error message will be displayed in the field, as well as not allowing the order to be completed.
+
+![Form-Validation](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/form-validation.png)
+
+### 6 - Order finished
+
+* When the data is filled in correctly and the order is completed a screen with the order information and a delivery time will be displayed.
+
+![Order-Finished](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/order-finished.png)
+
+### 7 - Mobile
+
+* Screen on devices mobile
+
+![Mobile](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/mobile.png)
 
 ## Links
-  - Repository: https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras
+  - Repository: https://github.com/MagalhaesDev/Coffe--Delivery
     - In case of sensitive bugs like security vulnerabilities, please contact
       mateusmagalhaesemidio@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
