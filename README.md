@@ -36,7 +36,7 @@ Here are the technologies used in this project.
 
 * In this part of the site, we see the coffees offered, with their name main, ingredients and values, buttons to increment and decrement, and one to add to the cart
 
-![Ṕroducts](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/products.png)
+![Products](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/products.png)
 
 ### 3 - Product Limit
 
