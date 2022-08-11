@@ -36,13 +36,13 @@ Here are the technologies used in this project.
 
 * In this part of the site, we see the coffees offered, with their name main, ingredients and values, buttons to increment and decrement, and one to add to the cart
 
-![Cart](https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras/blob/master/src/readme/cart2.png)
+![Ṕroducts](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/products.png)
 
-### 3 - React toastify
+### 3 - Product Limit
 
-* We used the toastify react to display error messages to the user when some rule did not occur as expected. In this example below we see a message when the user tries to place more items than are in stock.
+* One of the implemented functionalities is the product limit according to the quantity in stock, the user will not be able to put more than the quantity in stock, and if he puts the maximum of product in the cart a message written "product out of stock" will be displayed.
 
-![Toastify](https://github.com/MagalhaesDev/Criando-um-hook-de-carrinhos-de-compras/blob/master/src/readme/toast.png)
+![Product-Limit](https://github.com/MagalhaesDev/Coffe--Delivery/blob/main/src/assets/imgs-readme/products-stock.png)
 
 ### 4 - API
 
