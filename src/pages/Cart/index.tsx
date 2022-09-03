@@ -6,7 +6,7 @@ import { useForm, FormProvider } from 'react-hook-form'
 import * as zod from 'zod'
 import { useNavigate } from 'react-router-dom'
 import { ProductsContext } from '../../contexts/ProductsContext'
-import { useContext } from 'react
+import { useContext } from 'react'
 
 enum PaymentMethods {
   credit = 'credit',
